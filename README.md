@@ -1,2 +1,2 @@
-这是一个基于python标准库tkinter的抽奖小程序
+这是一个基于python标准库tkinter的抽奖小程序,
 抽奖的奖品可以自行更改
